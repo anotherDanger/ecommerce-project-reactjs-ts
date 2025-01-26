@@ -9,6 +9,18 @@
         "id": 2,
         "name": "Product B",
         "stock": 1002,
-        "price": 100
+        "price": 120
+    },
+    {
+        "id": 3,
+        "name": "Product C",
+        "stock": 22,
+        "price": 3000
+    },
+    {
+        "id": 4,
+        "name": "Product D",
+        "stock": 31,
+        "price": 200
     }
 ]
